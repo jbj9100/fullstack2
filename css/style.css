@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;   /*width가 100px일때 100안에 padding과 border가 포함된 전체크기 , 계산하기 더 쉽고 레이아웃 잡기 편함*/
+}                             /*border: 요소를 감싸는 테두리, padding은 요소 내부의 여백, 콘텐츠과 border사이의 여백*/
+
+
+body {
+    font-family: "Spoqa Han Sans", sans-serif;  /*글꼴 지정*/
+}
